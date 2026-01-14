@@ -1,4 +1,4 @@
-# Two-Link Robot Navigation with PPO
+# Two-Link 1DOF Robot Navigation with PPO
 
 A reinforcement learning project that trains a two-link robot to navigate through a randomly generated terrain to reach a goal door using Proximal Policy Optimization (PPO).
 
@@ -209,3 +209,4 @@ See `requirements.txt` for specific versions.
 ## Contributing
 
 [Add contribution guidelines if applicable]
+
